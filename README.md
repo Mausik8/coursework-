@@ -30,3 +30,12 @@
 
 Головне меню
 <img width="912" height="377" alt="image" src="https://github.com/user-attachments/assets/7f2cd230-eb62-40d6-9eb5-ccf937357734" />
+
+Створення нового файлу
+<img width="912" height="370" alt="image" src="https://github.com/user-attachments/assets/be3e6ce9-e9f3-4fd7-b753-93ea73e13e34" />
+
+Підменю редагування
+<img width="832" height="294" alt="image" src="https://github.com/user-attachments/assets/7aa4b4b2-413a-4e7a-9e32-4f348c07b2be" />
+
+Перегляд вмісту в режимі редагуванняю
+<img width="801" height="356" alt="image" src="https://github.com/user-attachments/assets/3332fb6e-09f6-47cb-be92-9fd9bbe6a82f" />
